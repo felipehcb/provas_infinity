@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; text-align: center; }
+#tarefas { list-style: none; padding: 0; }
+.tarefa { display: flex; justify-content: space-between; margin: 5px 0; }
