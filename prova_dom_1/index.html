@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Unidades</title>
+    <script src="style.css"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Conversor de Unidades de Comprimento</h2>
+        <label for="metros">Metros:</label>
+        <input type="number" id="metros" placeholder="Digite o valor" />
+        <br><br>
+        <label for="unidade">Converter para:</label>
+        <select id="unidade">
+            <option value="jarda">Jarda</option>
+            <option value="pe">Pé</option>
+            <option value="polegada">Polegada</option>
+            <option value="milha">Milha</option>
+        </select>
+        <br><br>
+        <button onclick="converter()">Converter</button>
+        <br><br>
+        <h3 id="resultado"></h3>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
