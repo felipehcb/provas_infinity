@@ -1,0 +1,23 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Ficção Científica",
+        "year": 1949,
+        "rating": null
+    },
+    {
+        "title": "O Senhor dos Anéis",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasia",
+        "year": 1954,
+        "rating": null
+    },
+    {
+        "title": "Dom Quixote",
+        "author": "Miguel de Cervantes",
+        "genre": "Romance",
+        "year": 1605,
+        "rating": null
+    }
+]
